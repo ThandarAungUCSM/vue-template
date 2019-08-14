@@ -1,4 +1,4 @@
-# my-project
+# own test vue-template
 
 > A Vue.js project
 
